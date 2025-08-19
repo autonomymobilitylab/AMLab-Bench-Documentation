@@ -1,0 +1,10 @@
+site_name: AMLab Bench Documentation
+site_url: https://amlab-bench.readthedocs.io/
+
+nav:
+  - Home: index.md
+  - Hardware: hardware.md
+  - Software: software.md
+  - Setup: setup.md
+  - Editing: editing.md
+theme: readthedocs
